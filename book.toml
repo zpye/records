@@ -4,3 +4,7 @@ language = "zh"
 multilingual = false
 src = "src"
 title = ""
+
+[output.html]
+git-repository-url = "https://github.com/zpye/records"
+mathjax-support = true
